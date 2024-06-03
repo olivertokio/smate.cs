@@ -308,8 +308,6 @@ th, td{
 /*contact section*/
 .contact{
   padding: 15rem 15%;
-  /* position: relative; */
-  /* min-height: 100vh; */
   display: flex;
   justify-content: center;
   align-items: center;
